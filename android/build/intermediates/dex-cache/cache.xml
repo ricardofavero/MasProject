@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\classes-85edd5134a65ec1a8465f8a11d9d5f39efc59320.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\classes-b28c659ec0c7b25ef11f4ff1dc9566cfcb55d3c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1-46393309319a26665dfb8bdf4cbd7102020b7748.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.41.1\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5-b14b530531770d297fe1b7d7aa629f36d538fb3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\classes-9d8e39867e318440c9ea8fd9eed6a80a29385f63.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\classes-b03ebd7125b1d66388be4b63c16387b1f43757ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\classes-7b556138da7b0411031d23c34a8e364772ad58a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\classes-15f88499786c687af16d6d5619ad19e974b45037.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\library-2.4.0-dc8b9a5f2399d787fbf6d36ada7533099bb7ad4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\classes-2dbad51b8a867836bb20736a015ca86dd41fb1d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0-d3181f5463f0afa7ef21b6be5f0b2ad0a468164e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\javax.inject-1-20d8916f9dff0a904f45d6d3374caa54e053147c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\classes-39b559ac25574dc0104b11a808576889e6e0aeed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-53b1014086e22f605e503226f6fb15c4b3d62788.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1-90703cec71a027e6f5d3c762020c1cb2900984ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0-8ab695a174e1b5676bc1a021594c7faa14688a40.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.41.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b49a04a3016689b372ecbb77f0c33e486e768cca">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\classes-c505294c7d4fc5c1b027d67341dbd58da84d2c3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\exploded-aar\MasProject\react-native-facebook-login\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec9d81b2028c333da29fe28635ef260775bf7859">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\classes-0e057503c2982f2b1b4a022f64512ff6d4fcd961.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\classes-d66f7171607286be8b6247b7edb148edf36dc050.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\classes-f9635eaae1157a69c305d8d113e981396953b650.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\classes-5983a8540dd21f3f68667ef3143a0b41a1818b52.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.10.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="53df71a373e68311fc2c587aa814db7f366ace95">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\classes-0913d7fbd2b4377181c18e356428c69abe7d3f92.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0-32f7688f443e0a260cd098f51257bd79eb0bb58e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0-54ece41441da28b6e0e242e96417fcd300a1d9aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1-44809eaf9b7efcafb34b2a7d9b0120071f48d61f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0-64906c02069e70281eadf4df658c2c53c1cd4f17.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="C:\Users\Acer\mas\MasProject\android\app\build\intermediates\pre-dexed\debug\classes-7a5ca5cd4bf27a4b807dfdf534eee8aaf3a02eee.jar" />
+    </item>
+
+</items>
